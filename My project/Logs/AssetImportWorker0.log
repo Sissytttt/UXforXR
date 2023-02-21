@@ -364,3 +364,15 @@ Received Import Request.
   path: Assets/Brick Project Studio/Apartment Kit/_Prefabs/Props/Lighting
   artifactKey: Guid(65b3809457a326b41afcda181e51678f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Brick Project Studio/Apartment Kit/_Prefabs/Props/Lighting using Guid(65b3809457a326b41afcda181e51678f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a2a321c20fb4cef961fc33bac118809') in 0.003942 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4030.722594 seconds.
+  path: Assets/New Material.mat
+  artifactKey: Guid(cea970bfc8e484b77b6afe3ffaf2e4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Material.mat using Guid(cea970bfc8e484b77b6afe3ffaf2e4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ac2afd9a435b3adbd3166e9632408c1') in 0.005672 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 740.110121 seconds.
+  path: Assets/New Material.mat
+  artifactKey: Guid(cea970bfc8e484b77b6afe3ffaf2e4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Material.mat using Guid(cea970bfc8e484b77b6afe3ffaf2e4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9730adbda52fa0359b1e1fa77b0e887d') in 0.007687 seconds 
